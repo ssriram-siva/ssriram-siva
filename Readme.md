@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssriram-siva&label=Profile%20views&color=0e75b6&style=flat" alt="ssriram-siva" /> </p>
 
-- 🔭 I'm currently studying **Computer Science** with a specialization in **Cybersecurity**
+- 🔭 I'm currently studying **Computer Science** 
 
 - 🛡️ I'm currently learning **Network Security, Ethical Hacking, Penetration Testing & Digital Forensics**
 
