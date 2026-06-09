@@ -33,15 +33,59 @@
 
 ---
 
-### 🛡️ Cybersecurity Tools & Skills
+### 🛡️ Cybersecurity Skills & Tools
 
+#### 🔍 Penetration Testing & Exploitation
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=databricks&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-4B0082?style=for-the-badge&logo=hack-the-box&logoColor=white)
+
+#### 🌐 Network Security & Analysis
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![TCPDump](https://img.shields.io/badge/TCPDump-003366?style=for-the-badge&logo=cloudflare&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212C42?style=for-the-badge&logo=pfsense&logoColor=white)
+
+#### 🔬 Vulnerability Assessment
+![Nessus](https://img.shields.io/badge/Nessus-00B4C8?style=for-the-badge&logo=tenable&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-4CAF50?style=for-the-badge&logo=openvas&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-8B0000?style=for-the-badge&logo=nikto&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+#### 🔑 Password Cracking & Hash Analysis
+![John the Ripper](https://img.shields.io/badge/John_The_Ripper-CC0000?style=for-the-badge&logo=red-hat&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-FF6600?style=for-the-badge&logo=hashcat&logoColor=white)
+![CyberChef](https://img.shields.io/badge/CyberChef-003366?style=for-the-badge&logo=google-chrome&logoColor=white)
+
+#### 📡 Wireless & Bluetooth Security
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-1A1A2E?style=for-the-badge&logo=wifi&logoColor=white)
+![WiFite](https://img.shields.io/badge/WiFite-6C3483?style=for-the-badge&logo=wifi&logoColor=white)
+![Kismet](https://img.shields.io/badge/Kismet-FF4500?style=for-the-badge&logo=bluetooth&logoColor=white)
+
+#### 🕵️ OSINT & Reconnaissance
+![Maltego](https://img.shields.io/badge/Maltego-00A0E9?style=for-the-badge&logo=maltego&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-CC0000?style=for-the-badge&logo=shodan&logoColor=white)
+![TheHarvester](https://img.shields.io/badge/TheHarvester-228B22?style=for-the-badge&logo=leaflet&logoColor=white)
+![Recon-ng](https://img.shields.io/badge/Recon--ng-2F4F4F?style=for-the-badge&logo=search&logoColor=white)
+
+#### 🧪 Digital Forensics & Reverse Engineering
+![Autopsy](https://img.shields.io/badge/Autopsy-4A4A4A?style=for-the-badge&logo=files&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-8B008B?style=for-the-badge&logo=memory&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=nsa&logoColor=white)
+![Binwalk](https://img.shields.io/badge/Binwalk-333333?style=for-the-badge&logo=binary&logoColor=white)
+
+#### 📊 SIEM & Threat Monitoring
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![IBM QRadar](https://img.shields.io/badge/IBM_QRadar-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+![Elastic SIEM](https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white)
+
+#### 🏆 CTF & Practice Platforms
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![PicoCTF](https://img.shields.io/badge/PicoCTF-003087?style=for-the-badge&logo=ctfd&logoColor=white)
 
 ---
 
