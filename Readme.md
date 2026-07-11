@@ -89,27 +89,49 @@
 
 ---
 
-### 💻 Languages & Frameworks
+## 💻 Languages & Frameworks
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/python.png" height="50" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" height="50" alt="C"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height="50" alt="C++"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="50" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" height="50" alt="HTML"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" height="50" alt="Bootstrap"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" height="50" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" height="50" alt="TensorFlow"/>
-  <img src="https://img.icons8.com/fluent/48/000000/arduino.png" height="50" alt="Arduino"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" height="50" alt="React"/>
-  <img src="https://img.icons8.com/color/48/000000/google-firebase-console.png" height="50" alt="Firebase"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" height="50" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" height="50" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" height="50" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50" alt="Linux"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=firebase"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
 </p>
----
 
+---
 ### 🧰 IDE and Tools I Use
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
