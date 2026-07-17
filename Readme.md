@@ -1,38 +1,32 @@
 
 <!-- ========================================================= -->
-<!--              PROFESSIONAL GITHUB PROFILE README            -->
+<!--                    GITHUB PROFILE README                  -->
+<!--        Stable Version - No Broken Banner Parameters       -->
 <!-- ========================================================= -->
 
-<!-- Banner -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,40:2563EB,70:06B6D4,100:7C3AED&text=Sriram&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=38&animation=twinkling&desc=Full-Stack%20MERN%20Developer%20|%20Cybersecurity%20Enthusiast%20|%20AI%20%26%20ML%20Learner&descAlignY=60&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Hi%20👋,%20I'm%20Sriram&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn"/>
 </p>
 
-<!-- Typing -->
-
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=💻+Full-Stack+MERN+Developer;🔐+Cybersecurity+Enthusiast;🤖+AI+%26+Machine+Learning+Learner;🚀+Building+Secure+%26+Scalable+Applications;🌱+Always+Learning+New+Technologies"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=💻+Full-Stack+MERN+Developer;🔐+Cybersecurity+Enthusiast;🤖+AI+%26+Machine+Learning+Learner;🚀+Building+Secure+%26+Scalable+Applications;🌱+Always+Learning+New+Technologies"/>
 </p>
 
-<!-- Badges -->
-
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ssriram-siva&style=for-the-badge&color=0ea5e9"/>
+<img src="https://komarev.com/ghpvc/?username=ssriram-siva&style=for-the-badge&color=0891b2"/>
 
 <img src="https://img.shields.io/github/followers/ssriram-siva?style=for-the-badge&logo=github"/>
 
-<img src="https://img.shields.io/github/last-commit/ssriram-siva/ssriram-siva?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/ssriram-siva?style=for-the-badge&logo=github"/>
 
 </p>
 
 ---
 
 <table>
-
 <tr>
 
 <td width="60%">
@@ -41,21 +35,17 @@
 
 🎓 Final Year Computer Science Engineering Student
 
-💻 Passionate about **Full-Stack Web Development**
+💻 Passionate about **Full-Stack MERN Development**
 
-🚀 Building secure web applications using the **MERN Stack**
+🚀 Building secure and scalable web applications
 
 🔐 Exploring **Cybersecurity & Secure Software Development**
 
-🤖 Interested in **Artificial Intelligence & Machine Learning**
+🤖 Learning **Artificial Intelligence & Machine Learning**
 
-📚 Solving DSA problems and learning System Design
+📚 Improving **Data Structures, Algorithms & System Design**
 
-🏆 Platforms
-
-- LeetCode
-- TryHackMe
-- Hack The Box
+🛡️ Practicing on **TryHackMe**, **Hack The Box** & **LeetCode**
 
 📧 **Email**
 
@@ -69,12 +59,11 @@
 
 <td>
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="330"/>
+<img width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 </td>
 
 </tr>
-
 </table>
 
 ---
@@ -105,7 +94,7 @@
 
 # 💻 Tech Stack
 
-### 🚀 Full Stack
+### 🚀 Full Stack Development
 
 <p align="center">
 
@@ -113,7 +102,7 @@
 
 </p>
 
-### 💡 Languages
+### 💡 Programming Languages
 
 <p align="center">
 
@@ -121,11 +110,11 @@
 
 </p>
 
-### 🛠 Tools
+### 🛠️ Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker"/>
 
 </p>
 
@@ -155,13 +144,13 @@
 
 # 🚀 Featured Projects
 
-| 🚀 Project | Description |
-|------------|-------------|
-| 🚚 RouteMind | Smart Transport Operations Platform |
-| 💬 Chat Application | MERN + Socket.io |
-| 📡 PortScanX | Python TCP Port Scanner |
-| 🔐 AI Intrusion Detection System | AI-based IDS |
-| 🎒 Lost & Found Portal | MERN Stack |
+| 🚀 Project | Description | Stack |
+|------------|-------------|-------|
+| 🚚 RouteMind | Smart Transport Operations Platform | MERN |
+| 💬 Chat Application | Real-time Chat App | MERN + Socket.io |
+| 📡 PortScanX | TCP Port Scanner | Python |
+| 🔐 AI Intrusion Detection System | AI-powered Network IDS | Python + ML |
+| 🎒 Lost & Found Portal | College Portal | MERN |
 
 ---
 
@@ -169,19 +158,37 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ssriram-siva&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ssriram-siva&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=ssriram-siva&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=ssriram-siva&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssriram-siva&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssriram-siva&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
-> **If GitHub statistics don't appear immediately, wait a few minutes. These services can be temporarily rate-limited.**
+---
+
+# 🏆 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ssriram-siva&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ssriram-siva&theme=algolia&no-frame=true&margin-w=15&column=4"/>
+
+</p>
 
 ---
 
@@ -190,18 +197,18 @@
 - 🚀 Advanced React
 - ⚙️ Node.js & Express.js
 - 🏗️ System Design
-- 🔐 Secure Coding
-- 🛡️ Ethical Hacking
+- 🔐 Secure Coding Practices
+- 🛡️ Ethical Hacking & Penetration Testing
 - 🤖 AI & Machine Learning
 - 📖 Data Structures & Algorithms
 
 ---
 
-# 💭 Quote
+# 💭 Favorite Quote
 
 <p align="center">
 
-> ### **"Build. Secure. Innovate. Repeat."**
+### **"Code with Purpose. Build with Passion. Secure by Design."**
 
 </p>
 
@@ -209,7 +216,7 @@
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F172A,40:2563EB,70:06B6D4,100:7C3AED&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24,30&section=footer"/>
 
 </p>
-```
+
