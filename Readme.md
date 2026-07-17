@@ -1,27 +1,38 @@
 
-<!-- ====================== HEADER ====================== -->
+<!-- ========================================================= -->
+<!--              PROFESSIONAL GITHUB PROFILE README            -->
+<!-- ========================================================= -->
+
+<!-- Banner -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Hi%20👋,%20I'm%20Sriram&fontAlign=50&fontAlignY=38&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,40:2563EB,70:06B6D4,100:7C3AED&text=Sriram&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=38&animation=twinkling&desc=Full-Stack%20MERN%20Developer%20|%20Cybersecurity%20Enthusiast%20|%20AI%20%26%20ML%20Learner&descAlignY=60&descSize=20"/>
 </p>
 
+<!-- Typing -->
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=💻+Full-Stack+MERN+Developer;🔐+Cybersecurity+Enthusiast;🤖+AI+%26+Machine+Learning+Learner;🚀+Building+Secure+%26+Scalable+Applications;🌱+Always+Learning+New+Technologies"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=💻+Full-Stack+MERN+Developer;🔐+Cybersecurity+Enthusiast;🤖+AI+%26+Machine+Learning+Learner;🚀+Building+Secure+%26+Scalable+Applications;🌱+Always+Learning+New+Technologies"/>
+
 </p>
 
+<!-- Badges -->
+
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ssriram-siva&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ssriram-siva&style=for-the-badge&color=0ea5e9"/>
 
-<img src="https://img.shields.io/github/followers/ssriram-siva?label=Followers&style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/ssriram-siva?style=for-the-badge&logo=github"/>
 
-<img src="https://img.shields.io/github/stars/ssriram-siva?affiliations=OWNER&style=for-the-badge"/>
+<img src="https://img.shields.io/github/last-commit/ssriram-siva/ssriram-siva?style=for-the-badge"/>
 
 </p>
 
 ---
 
 <table>
+
 <tr>
 
 <td width="60%">
@@ -30,17 +41,15 @@
 
 🎓 Final Year Computer Science Engineering Student
 
-💻 Full-Stack MERN Developer passionate about building scalable applications
+💻 Passionate about **Full-Stack Web Development**
 
-🔐 Cybersecurity Enthusiast with an interest in Secure Software Development
+🚀 Building secure web applications using the **MERN Stack**
 
-🤖 Exploring Artificial Intelligence & Machine Learning
+🔐 Exploring **Cybersecurity & Secure Software Development**
 
-🚀 Building real-world projects using MERN Stack
+🤖 Interested in **Artificial Intelligence & Machine Learning**
 
-🛡️ Learning Ethical Hacking & Penetration Testing
-
-📚 Practicing Data Structures & Algorithms
+📚 Solving DSA problems and learning System Design
 
 🏆 Platforms
 
@@ -60,11 +69,12 @@
 
 <td>
 
-<img width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="330"/>
 
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -82,11 +92,11 @@
 </a>
 
 <a href="https://www.youtube.com/@sriramcodes">
-<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/sriramcse">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </p>
@@ -99,11 +109,9 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,firebase,vite,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,vite,firebase"/>
 
 </p>
-
----
 
 ### 💡 Languages
 
@@ -113,25 +121,31 @@
 
 </p>
 
----
-
-### 🔐 Cybersecurity
+### 🛠 Tools
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker"/>
 
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite"/>
+</p>
 
-<img src="https://img.shields.io/badge/Metasploit-blue?style=for-the-badge"/>
+---
+
+# 🔐 Cybersecurity
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/OWASP_ZAP-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme"/>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme"/>
 
 <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 
@@ -141,21 +155,21 @@
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
+| 🚀 Project | Description |
+|------------|-------------|
 | 🚚 RouteMind | Smart Transport Operations Platform |
-| 💬 Chat Application | Real-Time MERN Chat Application |
+| 💬 Chat Application | MERN + Socket.io |
 | 📡 PortScanX | Python TCP Port Scanner |
-| 🔐 AI Intrusion Detection System | AI-based Network IDS |
-| 🎒 Lost & Found Portal | MERN College Portal |
+| 🔐 AI Intrusion Detection System | AI-based IDS |
+| 🎒 Lost & Found Portal | MERN Stack |
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ssriram-siva&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ssriram-siva&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=ssriram-siva&theme=tokyonight&hide_border=true"/>
 
@@ -163,11 +177,11 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssriram-siva&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssriram-siva&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
-> **Note:** GitHub Stats images may occasionally take a few minutes to load due to API rate limits.
+> **If GitHub statistics don't appear immediately, wait a few minutes. These services can be temporarily rate-limited.**
 
 ---
 
@@ -187,7 +201,7 @@
 
 <p align="center">
 
-> ### *"Build Secure. Build Smart. Never Stop Learning."*
+> ### **"Build. Secure. Innovate. Repeat."**
 
 </p>
 
@@ -195,7 +209,7 @@
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F172A,40:2563EB,70:06B6D4,100:7C3AED&section=footer"/>
 
 </p>
-
+```
