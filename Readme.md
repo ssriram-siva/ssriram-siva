@@ -1,56 +1,46 @@
-
-<!-- ========================================================= -->
-<!--                    🚀 PROFESSIONAL README                 -->
-<!-- ========================================================= -->
+```markdown
+<!-- ====================== HEADER ====================== -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00B4DB,100:6A11CB&text=Sriram&fontColor=ffffff&fontSize=65&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20|%20Cybersecurity%20Enthusiast%20|%20AI%20%26%20ML%20Learner&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Hi%20👋,%20I'm%20Sriram&fontAlign=50&fontAlignY=38&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=💻+Full-Stack+MERN+Developer;🔐+Cybersecurity+Enthusiast;🤖+AI+%26+Machine+Learning+Learner;🚀+Building+Secure+%26+Scalable+Applications;🌱+Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=900&center=true&vCenter=true&width=850&color=00F5FF&lines=💻+Full-Stack+MERN+Developer;🔐+Cybersecurity+Enthusiast;🤖+AI+%26+Machine+Learning+Learner;🚀+Building+Secure+%26+Scalable+Applications;🌱+Always+Learning+New+Technologies"/>
+<img src="https://komarev.com/ghpvc/?username=ssriram-siva&style=for-the-badge"/>
 
-</p>
+<img src="https://img.shields.io/github/followers/ssriram-siva?label=Followers&style=for-the-badge&logo=github"/>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ssriram-siva&style=for-the-badge&color=0891b2"/>
-
-<img src="https://img.shields.io/github/followers/ssriram-siva?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/ssriram-siva?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/ssriram-siva?affiliations=OWNER&style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 👨‍💻 About Me
-
 <table>
-
 <tr>
 
 <td width="60%">
 
-🎓 **Final Year Computer Science Engineering Student**
+# 👨‍💻 About Me
 
-💻 Passionate about designing and developing **modern Full-Stack Web Applications**
+🎓 Final Year Computer Science Engineering Student
 
-🚀 Building scalable software using the **MERN Stack**
+💻 Full-Stack MERN Developer passionate about building scalable applications
 
-🔐 Interested in **Cybersecurity, Secure Software Development & Ethical Hacking**
+🔐 Cybersecurity Enthusiast with an interest in Secure Software Development
 
-🤖 Exploring **Artificial Intelligence & Machine Learning**
+🤖 Exploring Artificial Intelligence & Machine Learning
 
-🛠️ Love solving real-world problems through software engineering
+🚀 Building real-world projects using MERN Stack
 
-🌱 Currently learning
+🛡️ Learning Ethical Hacking & Penetration Testing
 
-- System Design
-- Secure Coding
-- Data Structures & Algorithms
-- AI & Machine Learning
+📚 Practicing Data Structures & Algorithms
 
 🏆 Platforms
 
@@ -58,26 +48,23 @@
 - TryHackMe
 - Hack The Box
 
-📫 **Email**
+📧 **Email**
 
-```text
-ssriramcse23@gmail.com
-```
+`ssriramcse23@gmail.com`
 
 🌐 **Portfolio**
 
-https://srirams2006.netlify.app
+**https://srirams2006.netlify.app**
 
 </td>
 
 <td>
 
-<img width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 </td>
 
 </tr>
-
 </table>
 
 ---
@@ -95,11 +82,11 @@ https://srirams2006.netlify.app
 </a>
 
 <a href="https://www.youtube.com/@sriramcodes">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/sriramcse">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </p>
@@ -108,17 +95,17 @@ https://srirams2006.netlify.app
 
 # 💻 Tech Stack
 
-## 🚀 Full Stack Development
+### 🚀 Full Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,mongodb,mysql,firebase,tailwind,bootstrap,vite"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,firebase,vite,git,github,vscode"/>
 
 </p>
 
 ---
 
-## 💡 Programming Languages
+### 💡 Languages
 
 <p align="center">
 
@@ -128,29 +115,23 @@ https://srirams2006.netlify.app
 
 ---
 
-## 🔐 Cybersecurity
+### 🔐 Cybersecurity
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux"/>
 
-</p>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite"/>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-blue?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark"/>
 
-<img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP_ZAP-black?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme"/>
+<img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme"/>
 
 <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 
@@ -158,33 +139,23 @@ https://srirams2006.netlify.app
 
 ---
 
-# 🤖 AI & Machine Learning
-
-- Machine Learning
-- TensorFlow
-- Threat Detection
-- Anomaly Detection
-- AI for Cybersecurity
-
----
-
 # 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🚚 RouteMind | Smart Transport Operations Platform | MERN |
-| 💬 Chat Application | Real-time Chat Platform | MERN + Socket.io |
-| 📡 PortScanX | TCP Port Scanner | Python |
-| 🔐 AI Intrusion Detection System | AI-powered IDS | Python + ML |
-| 🎒 Lost & Found Portal | College Portal | MERN |
+| Project | Description |
+|----------|-------------|
+| 🚚 RouteMind | Smart Transport Operations Platform |
+| 💬 Chat Application | Real-Time MERN Chat Application |
+| 📡 PortScanX | Python TCP Port Scanner |
+| 🔐 AI Intrusion Detection System | AI-based Network IDS |
+| 🎒 Lost & Found Portal | MERN College Portal |
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ssriram-siva&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ssriram-siva&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=ssriram-siva&theme=tokyonight&hide_border=true"/>
 
@@ -192,55 +163,39 @@ https://srirams2006.netlify.app
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssriram-siva&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssriram-siva&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ssriram-siva&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ssriram-siva&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
+> **Note:** GitHub Stats images may occasionally take a few minutes to load due to API rate limits.
 
 ---
 
 # 📚 Currently Learning
 
-```text
-✔ Advanced React
-✔ Node.js & Express.js
-✔ System Design
-✔ Data Structures & Algorithms
-✔ Secure Coding
-✔ Ethical Hacking
-✔ Artificial Intelligence
-✔ Machine Learning
+- 🚀 Advanced React
+- ⚙️ Node.js & Express.js
+- 🏗️ System Design
+- 🔐 Secure Coding
+- 🛡️ Ethical Hacking
+- 🤖 AI & Machine Learning
+- 📖 Data Structures & Algorithms
+
+---
+
+# 💭 Quote
+
+<p align="center">
+
+> ### *"Build Secure. Build Smart. Never Stop Learning."*
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+
+</p>
 ```
-
----
-
-# 💭 Favorite Quote
-
-<p align="center">
-
-> **"Code with purpose. Build with passion. Secure by design."**
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6A11CB,100:00B4DB&section=footer"/>
-
-</p>
