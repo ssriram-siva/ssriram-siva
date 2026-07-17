@@ -11,9 +11,8 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=💻+Full-Stack+MERN+Developer;🔐+Cybersecurity+Enthusiast;🤖+AI+%26+Machine+Learning+Learner;🚀+Building+Secure+%26+Scalable+Applications;🌱+Always+Learning+New+Technologies"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=850&lines=Full-Stack+MERN+Developer;Secure+Software+Developer;Cybersecurity+Enthusiast;AI+%26+Machine+Learning+Learner;Always+Learning+New+Technologies" alt="Typing SVG">
 </p>
-
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=ssriram-siva&style=for-the-badge&color=0891b2"/>
