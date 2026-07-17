@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Sriram</h1>
 
 <h3 align="center">
@@ -180,4 +180,3 @@ Building secure, scalable and user-friendly web applications while exploring cyb
 <p align="center">
 <i>"Build. Learn. Secure. Repeat."</i>
 </p>
-```
