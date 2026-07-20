@@ -1,7 +1,6 @@
-
 <!-- ========================================================= -->
 <!--                    GITHUB PROFILE README                  -->
-<!--        Stable Version - No Broken Banner Parameters       -->
+<!--     Cybersecurity-First Version - Full Stack Secondary    -->
 <!-- ========================================================= -->
 
 <!-- ================= HEADER ================= -->
@@ -11,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=850&lines=Full-Stack+MERN+Developer;Secure+Software+Developer;Cybersecurity+Enthusiast;AI+%26+Machine+Learning+Learner;Always+Learning+New+Technologies" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=850&lines=Cybersecurity+Enthusiast;Secure+Software+Developer;Aspiring+Penetration+Tester;Full-Stack+MERN+Developer;Always+Learning+New+Technologies" alt="Typing SVG">
 </p>
 <p align="center">
 
@@ -34,17 +33,17 @@
 
 🎓 Final Year Computer Science Engineering Student
 
-💻 Passionate about **Full-Stack MERN Development**
+🔐 Passionate about **Cybersecurity & Secure Software Development**
 
-🚀 Building secure and scalable web applications
+🛡️ Practicing on **TryHackMe**, **Hack The Box** & **LeetCode**
 
-🔐 Exploring **Cybersecurity & Secure Software Development**
+🕵️ Exploring **Ethical Hacking & Penetration Testing**
+
+💻 Also building with **Full-Stack MERN Development**
 
 🤖 Learning **Artificial Intelligence & Machine Learning**
 
 📚 Improving **Data Structures, Algorithms & System Design**
-
-🛡️ Practicing on **TryHackMe**, **Hack The Box** & **LeetCode**
 
 📧 **Email**
 
@@ -91,34 +90,6 @@
 
 ---
 
-# 💻 Tech Stack
-
-### 🚀 Full Stack Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,vite,firebase"/>
-
-</p>
-
-### 💡 Programming Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp"/>
-
-</p>
-
-### 🛠️ Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker"/>
-
-</p>
-
----
-
 # 🔐 Cybersecurity
 
 <p align="center">
@@ -141,14 +112,42 @@
 
 ---
 
+# 💻 Tech Stack
+
+### 💡 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp"/>
+
+</p>
+
+### 🚀 Full Stack Development (Secondary Skillset)
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,vite,firebase"/>
+
+</p>
+
+### 🛠️ Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker"/>
+
+</p>
+
+---
+
 # 🚀 Featured Projects
 
 | 🚀 Project | Description | Stack |
 |------------|-------------|-------|
+| 🔐 AI Intrusion Detection System | AI-powered Network IDS | Python + ML |
+| 📡 PortScanX | TCP Port Scanner | Python |
 | 🚚 RouteMind | Smart Transport Operations Platform | MERN |
 | 💬 Chat Application | Real-time Chat App | MERN + Socket.io |
-| 📡 PortScanX | TCP Port Scanner | Python |
-| 🔐 AI Intrusion Detection System | AI-powered Network IDS | Python + ML |
 | 🎒 Lost & Found Portal | College Portal | MERN |
 
 ---
@@ -170,17 +169,15 @@
 
 ---
 
-
-
 # 📚 Currently Learning
 
+- 🛡️ Ethical Hacking & Penetration Testing
+- 🔐 Secure Coding Practices
+- 🤖 AI & Machine Learning
+- 📖 Data Structures & Algorithms
 - 🚀 Advanced React
 - ⚙️ Node.js & Express.js
 - 🏗️ System Design
-- 🔐 Secure Coding Practices
-- 🛡️ Ethical Hacking & Penetration Testing
-- 🤖 AI & Machine Learning
-- 📖 Data Structures & Algorithms
 
 ---
 
@@ -188,7 +185,7 @@
 
 <p align="center">
 
-### **"Code with Purpose. Build with Passion. Secure by Design."**
+### **"Secure by Design. Code with Purpose. Build with Passion."**
 
 </p>
 
@@ -199,4 +196,3 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24,30&section=footer"/>
 
 </p>
-
