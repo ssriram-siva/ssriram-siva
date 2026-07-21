@@ -79,7 +79,18 @@
 
 #### AI/ML
 <p align="left">
+<img src="https://skillicons.dev/icons?i=python"/>
 <img src="https://skillicons.dev/icons?i=tensorflow"/>
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+<img src="https://skillicons.dev/icons?i=opencv"/>
+</p>
+<p align="left">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 #### Tools & Platforms
@@ -88,16 +99,13 @@
 <img src="https://skillicons.dev/icons?i=git"/>
 <img src="https://skillicons.dev/icons?i=github"/>
 <img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=pycharm"/>
+<img src="https://skillicons.dev/icons?i=figma"/>
 </p>
-
-<p align="center">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
-  <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-  <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<p align="left">
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
 
 ---
