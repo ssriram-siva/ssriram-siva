@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Sriram</h1>
-<h3 align="center">🛡️ Aspiring Cybersecurity Engineer | Ethical Hacker | Penetration Tester | MERN Stack Developer</h3>
+<h3 align="center">💻 MERN Stack Developer | Full Stack Engineer | 🛡️ Cybersecurity Enthusiast</h3>
 
-<img align="right" alt="Cybersecurity" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssriram-siva&label=Profile%20views&color=0e75b6&style=flat" alt="ssriram-siva" /> </p>
 
-- 🔭 I'm currently studying **Computer Science** 
+- 🔭 I'm currently studying **Computer Science**
 
-- 🛡️ I'm currently learning **Network Security, Ethical Hacking, Penetration Testing & Digital Forensics**
+- 💻 I'm currently building **full stack web applications** using the **MERN stack** (MongoDB, Express, React, Node.js)
 
-- 🤖 Also exploring **AI/ML for Cybersecurity** — Threat Detection & Anomaly Detection
+- 📱 Also working with **Flutter** for cross-platform app development
+
+- 🛡️ Alongside development, I'm interested in **Network Security, Ethical Hacking & Penetration Testing** — I like understanding how systems break so I can build them stronger
 
 - 👨‍💻 All of my projects are available at [portfolio](https://srirams2006.netlify.app/)
 
-- 🔐 Practicing on **TryHackMe** | **Hack The Box** | **LeetCode**
+- 🔐 Practicing security fundamentals on **TryHackMe** | **Hack The Box** | **LeetCode**
 
-- 💬 Ask me about **MERN, Flutter, Ethical Hacking, Network Security**
+- 💬 Ask me about **MERN, React, Node.js, Flutter, Ethical Hacking, Network Security**
 
 - 📫 How to reach me: **ssriramcse23@gmail.com**
 
@@ -33,117 +35,88 @@
 
 ---
 
-### 🛡️ Cybersecurity Skills & Tools
+## 💻 Full Stack Development
 
-#### 🔍 Penetration Testing & Exploitation
+#### Languages & Core
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=c"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=javascript"/>
+</p>
+
+#### Frontend
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=flutter"/>
+</p>
+
+#### Backend & Databases
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://skillicons.dev/icons?i=express"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=firebase"/>
+</p>
+
+#### AI/ML
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+</p>
+
+#### Tools & Platforms
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+</p>
+
+<p align="center">
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
+  <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+  <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</p>
+
+---
+
+## 🛡️ Cybersecurity Interest
+
+*A secondary focus I explore alongside development — tools and areas I've practiced with on CTF platforms.*
+
+#### Penetration Testing & Exploitation
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=databricks&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-4B0082?style=for-the-badge&logo=hack-the-box&logoColor=white)
 
-#### 🌐 Network Security & Analysis
+#### Network Security & Analysis
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
-![Netcat](https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![TCPDump](https://img.shields.io/badge/TCPDump-003366?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212C42?style=for-the-badge&logo=pfsense&logoColor=white)
 
-#### 🔬 Vulnerability Assessment
+#### Vulnerability Assessment
 ![Nessus](https://img.shields.io/badge/Nessus-00B4C8?style=for-the-badge&logo=tenable&logoColor=white)
-![OpenVAS](https://img.shields.io/badge/OpenVAS-4CAF50?style=for-the-badge&logo=openvas&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-8B0000?style=for-the-badge&logo=nikto&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
-#### 🔑 Password Cracking & Hash Analysis
-![John the Ripper](https://img.shields.io/badge/John_The_Ripper-CC0000?style=for-the-badge&logo=red-hat&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-FF6600?style=for-the-badge&logo=hashcat&logoColor=white)
-![CyberChef](https://img.shields.io/badge/CyberChef-003366?style=for-the-badge&logo=google-chrome&logoColor=white)
-
-#### 📡 Wireless & Bluetooth Security
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-1A1A2E?style=for-the-badge&logo=wifi&logoColor=white)
-![WiFite](https://img.shields.io/badge/WiFite-6C3483?style=for-the-badge&logo=wifi&logoColor=white)
-![Kismet](https://img.shields.io/badge/Kismet-FF4500?style=for-the-badge&logo=bluetooth&logoColor=white)
-
-#### 🕵️ OSINT & Reconnaissance
+#### OSINT & Digital Forensics
 ![Maltego](https://img.shields.io/badge/Maltego-00A0E9?style=for-the-badge&logo=maltego&logoColor=white)
 ![Shodan](https://img.shields.io/badge/Shodan-CC0000?style=for-the-badge&logo=shodan&logoColor=white)
-![TheHarvester](https://img.shields.io/badge/TheHarvester-228B22?style=for-the-badge&logo=leaflet&logoColor=white)
-![Recon-ng](https://img.shields.io/badge/Recon--ng-2F4F4F?style=for-the-badge&logo=search&logoColor=white)
-
-#### 🧪 Digital Forensics & Reverse Engineering
 ![Autopsy](https://img.shields.io/badge/Autopsy-4A4A4A?style=for-the-badge&logo=files&logoColor=white)
-![Volatility](https://img.shields.io/badge/Volatility-8B008B?style=for-the-badge&logo=memory&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=nsa&logoColor=white)
-![Binwalk](https://img.shields.io/badge/Binwalk-333333?style=for-the-badge&logo=binary&logoColor=white)
 
-#### 📊 SIEM & Threat Monitoring
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![IBM QRadar](https://img.shields.io/badge/IBM_QRadar-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
-![Elastic SIEM](https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white)
-
-#### 🏆 CTF & Practice Platforms
+#### CTF & Practice Platforms
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![PicoCTF](https://img.shields.io/badge/PicoCTF-003087?style=for-the-badge&logo=ctfd&logoColor=white)
-
----
-
-## 💻 Languages & Frameworks
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-</p>
-
----
-### 🧰 IDE and Tools I Use
-
-<p align="center">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
-<img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
-<img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-<img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</p>
-
 
 ---
 
@@ -153,4 +126,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssriram-siva&theme=dark" alt="ssriram-siva" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ssriram-siva&bg_color=000000&color=ffffff&line=00ea69&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sriram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ssriram-siva&bg_color=000000&color=ffffff&line=00ea69&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
