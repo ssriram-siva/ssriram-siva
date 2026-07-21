@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sriram</h1>
-<h3 align="center">💻 MERN Stack Developer | Full Stack Engineer | 🛡️ Cybersecurity Enthusiast</h3>
+<h3 align="center">💻 Software Engineer | Full Stack Developer (MERN) | 🛡️ Cybersecurity Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssriram-siva&label=Profile%20views&color=0e75b6&style=flat" alt="ssriram-siva" /> </p>
 
 - 🔭 I'm currently studying **Computer Science**
+
+- 🧑‍💻 I'm a **Software Engineer** with a strong foundation in **Data Structures & Algorithms, OOP, and system design**
 
 - 💻 I'm currently building **full stack web applications** using the **MERN stack** (MongoDB, Express, React, Node.js)
 
@@ -32,6 +34,17 @@
 <a href="https://www.youtube.com/@sriramcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sriramcodes" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sriramcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sriramcse" height="30" width="40" /></a>
 </p>
+
+---
+
+## 🧑‍💻 Software Engineering
+
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-333333?style=for-the-badge&logo=leetcode&logoColor=white)
+![OOP](https://img.shields.io/badge/Object_Oriented_Programming-4B8BBE?style=for-the-badge&logo=codeforces&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-1E3A8A?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Version Control](https://img.shields.io/badge/Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile_%2F_Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
